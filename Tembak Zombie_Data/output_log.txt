@@ -1,0 +1,43 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 630 (ID=0xf00)
+    Vendor:   NVIDIA
+    VRAM:     2000 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\dannywahyudi\Desktop\GameDev\FPS Tembak Zombie\Tembak Zombie_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\dannywahyudi\Desktop\GameDev\FPS Tembak Zombie\Tembak Zombie_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\dannywahyudi\Desktop\GameDev\FPS Tembak Zombie\Tembak Zombie_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\dannywahyudi\Desktop\GameDev\FPS Tembak Zombie\Tembak Zombie_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\dannywahyudi\Desktop\GameDev\FPS Tembak Zombie\Tembak Zombie_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\dannywahyudi\Desktop\GameDev\FPS Tembak Zombie\Tembak Zombie_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\dannywahyudi\Desktop\GameDev\FPS Tembak Zombie\Tembak Zombie_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\dannywahyudi\Desktop\GameDev\FPS Tembak Zombie\Tembak Zombie_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\dannywahyudi\Desktop\GameDev\FPS Tembak Zombie\Tembak Zombie_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\dannywahyudi\Desktop\GameDev\FPS Tembak Zombie\Tembak Zombie_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\dannywahyudi\Desktop\GameDev\FPS Tembak Zombie\Tembak Zombie_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\dannywahyudi\Desktop\GameDev\FPS Tembak Zombie\Tembak Zombie_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.272 seconds
+Platform assembly: C:\Users\dannywahyudi\Desktop\GameDev\FPS Tembak Zombie\Tembak Zombie_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\dannywahyudi\Desktop\GameDev\FPS Tembak Zombie\Tembak Zombie_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.234809 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1308 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.162900 ms
+
+Unloading 189 unused Assets to reduce memory usage. Loaded Objects now: 323.
+Total: 2.866637 ms (FindLiveObjects: 0.030789 ms CreateObjectMapping: 0.034958 ms MarkObjects: 0.190510 ms  DeleteObjects: 2.603642 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.328101 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 520.
+Total: 0.549401 ms (FindLiveObjects: 0.033996 ms CreateObjectMapping: 0.041052 ms MarkObjects: 0.247920 ms  DeleteObjects: 0.225469 ms)
+
